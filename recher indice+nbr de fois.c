@@ -7,7 +7,7 @@ for(int i=0; i<n; i++)
 {
     if(T[i]==N)
     {
-        printf("l'element recherche se trouveds indice %d ",i);
+        printf("l'element recherche se trouveds indice %d\n ",i);
         cmp++;
     }
 }
